@@ -119,8 +119,8 @@ textarea {
   border-radius:0.25rem;
   width:100%;
   margin:40px 0 0 0;
-  background-color:55aa55;
-color:white;
+  background-color:#55aa55;
+  color:white;
   font-size:1rem;
-min-height:50px;
+  min-height:50px;
 }
